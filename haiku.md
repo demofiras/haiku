@@ -2,5 +2,6 @@
 
 This is a sentence.
 
-Write anything
+Write anything.
+
 All it needs is 7 syllables
